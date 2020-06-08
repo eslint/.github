@@ -16,8 +16,8 @@ Please **do not** file a GitHub issue for a vulnerability.
 2. The team will investigate and update the issue with relevant information.
 3. If the team does not confirm the report, no further action will be taken and the issue will be closed.
 4. If the team confirms the report, the team will take action to fix it immediately:
-    a. Commits will be handled in a private repository for review and testing.
-    b. Release a new patch version from the private repository.
-    c. Write a blog post disclosing the vulnerability.
-    d. Notify Tidelift about the vulnerability.
+    1. Commits will be handled in a private repository for review and testing.
+    2. Release a new patch version from the private repository.
+    3. Write a blog post disclosing the vulnerability.
+    4. Notify Tidelift about the vulnerability.
  
