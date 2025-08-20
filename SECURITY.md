@@ -19,7 +19,9 @@ To securely report a vulnerability, please open an advisory on the affected GitH
     3. Issue a security advistory through GitHub.
     4. Write a blog post about the vulnerability.
     5. Notify Tidelift about the vulnerability.
- 
+
+If you do not receive an acknowledgement within six business days, or cannot find a private contact, you may escalate to the OpenJS Foundation CNA at `security@lists.openjsf.org`. If a project does not respond within 14 days, escalation is appropriate.
+
 ## Security Advisories
 
 Security advisories are only issued when a confirmed vulnerability can be exploited by a non-local actor. Because ESLint and its related packages are primarily used as development dependencies on local machines, there are no security concerns related to regular expression performance or other problems that could bring down a public-facing server. These issues should be filed as bug reports instead of advisories.
