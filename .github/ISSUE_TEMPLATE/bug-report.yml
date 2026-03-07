@@ -1,5 +1,5 @@
 name: "\U0001F41E Report a problem"
-description: "Report a problem with ESLint"
+description: "Report a problem with this project"
 title: "Bug: (fill in)"
 labels:
     - bug
