@@ -1,2 +1,6 @@
+# Editor Configuration Files
+.vscode/
+*.code-workspace
+
 # Automatically generated files by GitHub Actions workflow
 /.shared-workflows
