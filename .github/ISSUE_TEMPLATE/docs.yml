@@ -37,11 +37,11 @@ body:
           options:
               - label: I did not use AI to generate this issue report.
                 required: false
-              - label: I used AI to write or edit the description of this issue (including translation).
+              - label: I used AI to translate the content of this issue report.
                 required: false
               - label: I used AI to understand the codebase.
                 required: false
-              - label: I used AI to write or edit code included in this issue and I reviewed the code.
+              - label: I used AI to generate content for this issue report and I reviewed the generated content.
                 required: false
     - type: textarea
       attributes:
