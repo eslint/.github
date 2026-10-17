@@ -56,13 +56,13 @@ body:
           label: AI acknowledgment
           description: Check all that apply.
           options:
-              - label: I did _not_ use AI to generate this issue
+              - label: I did not use AI to generate this issue
                 required: false
               - label: I used AI to write or edit the description of this issue (including translation)
                 required: false
               - label: I used AI to understand the codebase
                 required: false
-              - label: I used AI to write or edit code included in this issue _and_ I reviewed the code
+              - label: I used AI to write or edit code included in this issue and I reviewed the code
                 required: false
     - type: textarea
       attributes:
