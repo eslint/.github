@@ -25,10 +25,10 @@
 
 Check all that apply.
 
-- [ ] I did _not_ use AI to generate this PR
-- [ ] I used AI to write or edit the description of this PR (including translation)
-- [ ] I used AI to understand the codebase
-- [ ] I used AI to write or edit the files in this PR _and_ I reviewed the files
+- [ ] I did _not_ use AI to generate this PR.
+- [ ] I used AI to write or edit the description of this PR (including translation).
+- [ ] I used AI to understand the codebase.
+- [ ] I used AI to write or edit the files in this PR _and_ I reviewed the files.
 
 #### What is the purpose of this pull request?
 
