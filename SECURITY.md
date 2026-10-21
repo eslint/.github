@@ -18,7 +18,6 @@ To securely report a vulnerability, please open an advisory on the affected GitH
     2. Release a new patch version from the private repository.
     3. Issue a security advistory through GitHub.
     4. Write a blog post about the vulnerability.
-    5. Notify Tidelift about the vulnerability.
 
 If you do not receive an acknowledgement of your report within six business days, or if you cannot find a private security contact for the project, you may escalate to the OpenJS Foundation CNA at `security@lists.openjsf.org`.
 
